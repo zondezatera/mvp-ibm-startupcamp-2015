@@ -3223,7 +3223,7 @@ section {
     text-decoration: none;
     display: block
 }
-.section__description {
+/*.section__description {
     width: 60%;
     margin: 0 auto 40px auto;
     opacity: .8;
@@ -3235,7 +3235,7 @@ section {
 }
 .section__description.section__description--wider {
     width: 70%
-}
+}*/
 @media screen and (max-width: 50em) {
     .section__description {
         width: 90%
@@ -4563,7 +4563,7 @@ body.video-playing .player {
     display: table;
     clear: both
 }
-.block {
+/*.block {
     float: left;
     display: block;
     margin-right: 5.76246%;
@@ -4571,7 +4571,7 @@ body.video-playing .player {
     margin-left: 13.22031%;
     padding: 0 100px;
     margin-bottom: 40px
-}
+}*/
 .block:last-child {
     margin-right: 0
 }
