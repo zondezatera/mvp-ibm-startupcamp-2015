@@ -1210,7 +1210,7 @@ border-top:2px solid #999B9B
     padding-bottom:20px;
     border-radius:0;
     margin:0;
-    background:#f0f2f2
+    background:rgb(246,245,241); 
 }
 .navbar .navbar-collapse {
     margin-right:-30px
@@ -1337,7 +1337,7 @@ max-width:300px
 }
 .dark_form legend {
     font-size:14px;
-    color:#fff;
+    color:#FFF;
     border:none;
     line-height:1.5em;
     margin-bottom:10px
@@ -1350,7 +1350,7 @@ max-width:300px
 .dark_form legend a:visited,
 .dark_form legend a:hover,
 .dark_form legend a:active {
-    color:#19BC9C;
+    color:#FFFFFF;
     text-decoration:underline
 }
 .dark_form .input {
@@ -2658,11 +2658,12 @@ section .learn_more_link a:focus {
     min-height:590px;
     max-height:590px;
     padding-top:50px;
-    background-color:rgb(114,186,154);
+    /*background-color:rgb(114,186,154);*/
+    background-color: #03A9F4;
 }
 .section-first h1,
 .section-first h2 {
-    color:#fff
+    color:#FFFFFF;
 }
 .section-first h2 {
     line-height:22px
@@ -2691,7 +2692,7 @@ section .learn_more_link a:focus {
 }
 }
 .section-first #placeholder {
-    background:url('https://d2k0u7ej7vpxec.cloudfront.net/static/img/video_preview_new@2x.jpg?50baeed2488d') no-repeat;
+    background:url('../images/ss2.png') no-repeat;
     background-size:cover;
     position:absolute;
     bottom:0;
@@ -2709,7 +2710,6 @@ section .learn_more_link a:focus {
     width:100%;
     height:100%;
     cursor:pointer;
-    background:url('https://d2k0u7ej7vpxec.cloudfront.net/static/img/play_icon.svg?a4f8c0039a78') 50% 60% no-repeat;
     -webkit-transition:opacity 200ms ease;
     transition:opacity 200ms ease
 }
@@ -3170,7 +3170,7 @@ top:0
 }
 .footer .social a {
     margin-bottom:10px;
-    display:block
+    /*display:block*/
 }
 @media(max-width:991px){.footer .social {
     padding-right:0;
@@ -3257,7 +3257,7 @@ footer .security_logos {
     }
 }
 .dark_form legend a {
-    color:#fff!important
+    color:#FFF!important
 }
 @media(min-width:768px) and (max-width:991px) {
     #campaign_content #simple_steps li {

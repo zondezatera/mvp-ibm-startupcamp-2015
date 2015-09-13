@@ -262,11 +262,11 @@ body{line-height:22px;background-color:#E6E7E8;font-family:nerislight,nerissemib
 .top_login a.login-link:hover{color:#424242;}
 .homebox-item,.tz-box-title,.tz-box-text,.tz-box-readmore,.tz-box2-title,.tz-box2-text,.tz-box2-readmore{position:relative;text-align:center;}
 .tz-box-title{margin:10px auto;}
-.tz-box-title-line{width:25%; height:5px; margin:10px auto 15px; border-top:1px solid #0FAE9E;}
+.tz-box-title-line{width:25%; height:5px; margin:10px auto 15px; border-top:1px solid #727272;}
 .tz-box2-title-line{width:25%; height:5px; margin:10px auto 15px; border-top:1px solid #ffffff;}
-.tz-box-title h3{color:#0FAE9E; margin-bottom:15px;}
+.tz-box-title h3{color:#212121; margin-bottom:15px;}
 .tz-box2-title h3{color:#ffffff; margin-bottom:15px;}
-.tz-box-text{padding:0px 30px; line-height:19px;}
+.tz-box-text{color:#727272;padding:0px 30px; line-height:19px;}
 .tz-box-readmore a{color:#333333;}
 .tz-box-readmore a:hover{color:#0FAE9E;}
 .tz-box2-readmore a{color:#333333;}
